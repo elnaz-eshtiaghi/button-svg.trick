@@ -2,7 +2,7 @@
 **If you have a lot of information to display on your site, why don't you use my project**
 
 ![Screenshot_2023_10_31-6](https://github.com/elnaz-eshtiaghi/trick.17-animation-/assets/146030206/03922570-815a-402a-aa43-502575164148)
-- [Demo Project]( https://elnaz-eshtiaghi.github.io/trick.17-animation-/)
+- [Demo Project]( https://elnaz-eshtiaghi.github.io/button-animation/)
 
 - Developed by elnaz eshtiaghi
 
